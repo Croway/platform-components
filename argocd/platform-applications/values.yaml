@@ -2,7 +2,7 @@
 clusterRouterDomain: example.cluster.com
 
 gitHost: https://github.com
-gitOrg: contract-first-idp
+gitOrg: croway
 gitRef: main
 gitToken: ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
