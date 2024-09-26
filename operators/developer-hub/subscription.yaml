@@ -11,4 +11,3 @@ spec:
   name: rhdh
   source: redhat-operators
   sourceNamespace: openshift-marketplace
-  startingCSV: rhdh-operator.v1.2.3-0.1724956299.p
